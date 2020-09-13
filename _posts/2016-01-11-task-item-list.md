@@ -1,23 +1,8 @@
 ---
 layout: post
-title: Task Item List
+title: 第一个博客
 tags: [to-do list]
 ---
 
-This post tests the style of a task item list.
+这是我第一个博客
 
-Source:
-
-```markdown
-- [x] Eating
-- [ ] Walking
-  - [ ] Running
-- [ ] Sleeping
-```
-
-Rendered:
-
-- [x] Eating
-- [ ] Walking
-  - [ ] Running
-- [ ] Sleeping
