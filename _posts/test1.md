@@ -1,6 +1,4 @@
 ---
-title: test1
-date: 2019-11-23
 tags: Hexo Github 个人博客
 categories:
 - Hexo
