@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Just like the sunflower proud alive.
+<center>Just like the sunflower proud alive.</center>
