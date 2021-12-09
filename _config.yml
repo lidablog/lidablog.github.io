@@ -1,5 +1,5 @@
 title: LIDA
-description: Welcome to communicate.
+description: No matter how complicated your life is, you have to maintain your elegance.
 author: LIDA
 avatar: /logo.png
 email: 15489098@qq.com
@@ -20,14 +20,14 @@ paginate: 10
 # 
 # disqus:
 
-# Jekyll
+
 # ======
 exclude:
   - scripts/
   - README.md
-  - jekyll-theme-hamilton.gemspec
 
-# Jekyll SEO Tag (Optional)
+
+
 # =========================
 twitter:
   username: ngzhio
